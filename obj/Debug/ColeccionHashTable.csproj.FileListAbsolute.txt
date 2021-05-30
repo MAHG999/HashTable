@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ColeccionHashTable\bin\Debug\ColeccionHashTable.exe.config
+C:\Users\marco\source\repos\ColeccionHashTable\bin\Debug\ColeccionHashTable.exe
+C:\Users\marco\source\repos\ColeccionHashTable\bin\Debug\ColeccionHashTable.pdb
+C:\Users\marco\source\repos\ColeccionHashTable\obj\Debug\ColeccionHashTable.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ColeccionHashTable\obj\Debug\ColeccionHashTable.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ColeccionHashTable\obj\Debug\ColeccionHashTable.exe
+C:\Users\marco\source\repos\ColeccionHashTable\obj\Debug\ColeccionHashTable.pdb
+E:\Programas en C#\ColeccionHashTable\bin\Debug\ColeccionHashTable.exe.config
+E:\Programas en C#\ColeccionHashTable\bin\Debug\ColeccionHashTable.exe
+E:\Programas en C#\ColeccionHashTable\bin\Debug\ColeccionHashTable.pdb
+E:\Programas en C#\ColeccionHashTable\obj\Debug\ColeccionHashTable.csprojAssemblyReference.cache
+E:\Programas en C#\ColeccionHashTable\obj\Debug\ColeccionHashTable.csproj.CoreCompileInputs.cache
+E:\Programas en C#\ColeccionHashTable\obj\Debug\ColeccionHashTable.exe
+E:\Programas en C#\ColeccionHashTable\obj\Debug\ColeccionHashTable.pdb
